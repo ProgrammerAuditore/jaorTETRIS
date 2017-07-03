@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1419726661 source:/home/jaor/Documentos/JaorTetris/conio.c
+	"conio.h"
+
+1419726598 /home/jaor/Documentos/JaorTetris/conio.h
+	<termios.h>
+	<unistd.h>
+	<stdio.h>
+	<fcntl.h>
+	<sys/time.h>
+
+1466289827 source:/home/jaor/Documentos/JaorTetris/func_video.c
+	"func_video.h"
+
+1420241145 /home/jaor/Documentos/JaorTetris/func_video.h
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"ctype.h"
+	<wchar.h>
+	<locale.h>
+	<stdbool.h>
+
+1466290048 source:/home/jaor/Documentos/JaorTetris/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<signal.h>
+
